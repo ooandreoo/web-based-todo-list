@@ -1,8 +1,10 @@
-# React + Vite
+# Web based to-do list
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What is this?
+It is a web tool that you can use to organize your daily tasks, it's a purely frontend tool
 
-Currently, two official plugins are available:
+## Do I need to pay for this?
+I don't know yet, I would have to host it and see how much traffic there is, I hope it can function only with donations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Why did you build this?
+I want stuff for my portfolio, I'm looking for a job :D
